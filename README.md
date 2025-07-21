@@ -25,4 +25,6 @@ Welcome to my GitHub profile. I'm a software engineering student passionate abou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/Inti-Panesso-Chávez/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/mazamorragay/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&labelColor=D14836)](mailto:intipanessochavez@gmail.com)
+
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&labelColor=D14836)  
+intipanessochavez@gmail.com
