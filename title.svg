@@ -11,7 +11,7 @@
   <!-- Fondo blanco hueso con borde amarillo pálido -->
   <rect x="0" y="1" width="500" height="118" rx="18" fill="#FFFCF5" stroke="#FFF3C4" stroke-width="2"/>
   <!-- Fondo de triángulos -->
-<g opacity="0.45">
+ <g opacity="0.45">
   <!-- Fila 1 -->
   <polygon points="30,20 60,10 45,40" fill="#c9bae5ff"/>
   <polygon points="60,10 90,20 75,40" fill="#f5cde4ff"/>
@@ -62,11 +62,15 @@
   <polygon points="350,150 320,140 335,170" fill="#f5cde4ff"/>
   <polygon points="320,170 290,160 305,190" fill="#fddca2ff"/>
   <polygon points="290,190 260,180 275,210" fill="#f1e1bfff"/>
-</g>
+ </g>
   <!-- Título principal -->
   <text x="50%" y="58" text-anchor="middle" font-size="42" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-weight="bold" fill="#E6C200" letter-spacing="1">
     Inti Panesso
   </text>
   <!-- Línea divisoria degradada -->
   <rect x="80" y="72" width="340" height="3" rx="1.5" fill="url(#lineGradient)" />
+  <!-- Subtítulo -->
+  <text x="50%" y="100" text-anchor="middle" font-size="18" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-weight="bold" fill="#dc3fb4ff" letter-spacing="1">
+    Musician/Composer/Programmer
+  </text>
 </svg>
