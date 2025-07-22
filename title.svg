@@ -9,7 +9,7 @@
     </linearGradient>
   </defs>
   <!-- Fondo blanco hueso con borde amarillo pálido -->
-  <rect x="0" y="1" width="500" height="118" rx="18" fill="#FFFCF5" stroke="#FFF3C4" stroke-width="2"/>
+  <rect x="0" y="1" width="500" height="118" rx="18" fill="#882d74ff" stroke="#FFF3C4" stroke-width="2"/>
   <!-- Fondo de triángulos -->
  <g opacity="0.45">
   <!-- Fila 1 -->
@@ -70,7 +70,9 @@
   <!-- Línea divisoria degradada -->
   <rect x="80" y="72" width="340" height="3" rx="1.5" fill="url(#lineGradient)" />
   <!-- Subtítulo -->
-  <text x="50%" y="100" text-anchor="middle" font-size="18" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-weight="bold" fill="#dc3fb4ff" letter-spacing="1">
-    Musician/Composer/Programmer
+  <text x="50%" y="100" text-anchor="middle" font-size="18" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-weight="bold" fill="#f3ac41ff" letter-spacing="1">
+    <tspan fill="#fddca2ff">Musician</tspan>
+    <tspan fill="#b3c6ff" dx="10">Composer</tspan>
+    <tspan fill="#f7b2e6ff" dx="10">Programmer</tspan>
   </text>
 </svg>
