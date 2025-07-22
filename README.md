@@ -1,7 +1,7 @@
 
-# Hi there 👋
+# Hi there, I'm 👋
 
-![Título SVG](./title.svg)
+<img src="./title.svg" alt="Título SVG" style="float: right;">
 
 ## 📍 Pasto, Colombia
 
