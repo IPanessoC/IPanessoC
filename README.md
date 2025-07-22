@@ -1,7 +1,7 @@
 
-![Título SVG](./title.svg)
+# Hi there 👋
 
-# Hi there, I´m Inti Panesso👋
+![Título SVG](./title.svg)
 
 ## 📍 Pasto, Colombia
 
