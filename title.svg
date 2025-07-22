@@ -1,0 +1,72 @@
+<svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Degradado para la línea divisoria -->
+    <linearGradient id="lineGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c242ce"/>
+      <stop offset="40%" stop-color="#a259b5"/>
+      <stop offset="70%" stop-color="#b3c6ff"/>
+      <stop offset="100%" stop-color="#f7b2e6"/>
+    </linearGradient>
+  </defs>
+  <!-- Fondo blanco hueso con borde amarillo pálido -->
+  <rect x="0" y="1" width="500" height="118" rx="18" fill="#FFFCF5" stroke="#FFF3C4" stroke-width="2"/>
+  <!-- Fondo de triángulos -->
+<g opacity="0.45">
+  <!-- Fila 1 -->
+  <polygon points="30,20 60,10 45,40" fill="#c9bae5ff"/>
+  <polygon points="60,10 90,20 75,40" fill="#f5cde4ff"/>
+  <polygon points="45,40 75,40 60,70" fill="#fddca2ff"/>
+  <polygon points="75,40 105,30 90,70" fill="#f1e1bfff"/>
+  <polygon points="90,20 120,10 105,30" fill="#c9bae5ff"/>
+  <polygon points="105,30 135,20 120,50" fill="#f5cde4ff"/>
+  <polygon points="120,50 150,40 135,70" fill="#fddca2ff"/>
+  <polygon points="135,70 165,60 150,90" fill="#f1e1bfff"/>
+  <!-- Fila 2 (desplazada) -->
+  <polygon points="60,70 90,70 75,100" fill="#c9bae5ff"/>
+  <polygon points="90,70 120,80 105,110" fill="#f5cde4ff"/>
+  <polygon points="105,110 135,100 120,130" fill="#fddca2ff"/>
+  <polygon points="135,100 165,110 150,140" fill="#f1e1bfff"/>
+  <polygon points="180,70 210,60 195,90" fill="#c9bae5ff"/>
+  <polygon points="210,60 240,70 225,90" fill="#f5cde4ff"/>
+  <polygon points="225,90 255,80 240,110" fill="#fddca2ff"/>
+  <polygon points="240,110 270,100 255,130" fill="#f1e1bfff"/>
+  <polygon points="255,80 285,70 270,100" fill="#c9bae5ff"/>
+  <polygon points="270,100 300,90 285,120" fill="#f5cde4ff"/>
+  <polygon points="285,120 315,110 300,140" fill="#fddca2ff"/>
+  <polygon points="300,140 330,130 315,160" fill="#f1e1bfff"/>
+  <polygon points="315,110 345,100 330,130" fill="#c9bae5ff"/>
+  <polygon points="330,130 360,120 345,150" fill="#f5cde4ff"/>
+  <polygon points="345,150 375,140 360,170" fill="#fddca2ff"/>
+  <polygon points="360,170 390,160 375,190" fill="#f1e1bfff"/>
+  <polygon points="375,140 405,130 390,160" fill="#c9bae5ff"/>
+  <polygon points="390,160 420,150 405,180" fill="#f5cde4ff"/>
+  <polygon points="405,180 435,170 420,200" fill="#fddca2ff"/>
+  <polygon points="420,200 450,190 435,220" fill="#f1e1bfff"/>
+  <polygon points="0,120 30,110 15,140" fill="#c9bae5ff"/>
+  <polygon points="30,110 60,120 45,140" fill="#f5cde4ff"/>
+<!-- Fila diagonal 1 (superior derecha a inferior izquierda) -->
+  <polygon points="500,20 470,10 485,40" fill="#c9bae5ff"/>
+  <polygon points="470,40 440,30 455,60" fill="#f5cde4ff"/>
+  <polygon points="440,60 410,50 425,80" fill="#fddca2ff"/>
+  <polygon points="410,80 380,70 395,100" fill="#f1e1bfff"/>
+  <polygon points="380,100 350,90 365,120" fill="#c9bae5ff"/>
+  <polygon points="350,120 320,110 335,140" fill="#f5cde4ff"/>
+  <polygon points="320,140 290,130 305,160" fill="#fddca2ff"/>
+  <polygon points="290,160 260,150 275,180" fill="#f1e1bfff"/>
+<!-- Fila diagonal 2 (desplazada hacia abajo) -->
+  <polygon points="500,50 470,40 485,70" fill="#c9bae5ff"/>
+  <polygon points="470,70 440,60 455,90" fill="#f5cde4ff"/>
+  <polygon points="440,90 410,80 425,110" fill="#fddca2ff"/>
+  <polygon points="410,110 380,100 395,130" fill="#f1e1bfff"/>
+  <polygon points="380,130 350,120 365,150" fill="#c9bae5ff"/>
+  <polygon points="350,150 320,140 335,170" fill="#f5cde4ff"/>
+  <polygon points="320,170 290,160 305,190" fill="#fddca2ff"/>
+  <polygon points="290,190 260,180 275,210" fill="#f1e1bfff"/>
+</g>
+  <!-- Título principal -->
+  <text x="50%" y="58" text-anchor="middle" font-size="42" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-weight="bold" fill="#E6C200" letter-spacing="1">
+    Inti Panesso
+  </text>
+  <!-- Línea divisoria degradada -->
+  <rect x="80" y="72" width="340" height="3" rx="1.5" fill="url(#lineGradient)" />
+</svg>
