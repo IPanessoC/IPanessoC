@@ -11,6 +11,7 @@ Welcome to my GitHub profile. I'm a software engineering student passionate abou
 
  I undertook undergraduate studies in Music, specializing in performance and composition, and completed a significant portion of the curriculum before redirecting my academic focus toward Software Engineering.
 
+![Static Badge](https://img.shields.io/badge/Google_Cybersecurity-c242ce?logo=google&logoColor=812965&labelColor=de7ce7)
 ![Static Badge](https://img.shields.io/badge/Google_AI_Essentials-c242ce?logo=google&logoColor=812965&labelColor=de7ce7)
 ![Static Badge](https://img.shields.io/badge/Google_Prompting_Essentials-c242ce?logo=google&logoColor=812965&labelColor=de7ce7)
 ![Static Badge](https://img.shields.io/badge/Terminal-c242ce?logo=gnometerminal&logoColor=812965&labelColor=de7ce7)
