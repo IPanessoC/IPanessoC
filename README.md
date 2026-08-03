@@ -5,11 +5,11 @@
 
 ## 📍 Pasto, Colombia
 
-Welcome to my GitHub profile. I'm a software engineering student passionate about data science and AI development, especially exploring their intersection with the arts.
+Welcome to my GitHub profile. My name is Inti Panesso. I am a cybersecurity analyst and software analysis and development student.
 
 ## Learning
 
- I undertook undergraduate studies in Music, specializing in performance and composition, and completed a significant portion of the curriculum before redirecting my academic focus toward Software Engineering.
+ I am passionate about combining both fields to create engaging, reliable, and secure digital experiences. I earned my Professional Certificate in Cybersecurity from Google through Coursera, and I currently work as a front-end developer and freelance cybersecurity analyst.
 
 ![Static Badge](https://img.shields.io/badge/Google_Cybersecurity-c242ce?logo=google&logoColor=812965&labelColor=de7ce7)
 ![Static Badge](https://img.shields.io/badge/Google_AI_Essentials-c242ce?logo=google&logoColor=812965&labelColor=de7ce7)
