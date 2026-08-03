@@ -28,5 +28,9 @@ I am passionate about combining both fields to create engaging, reliable, and se
 ## Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/inti-panesso-ch%C3%A1vez-2b2260362/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/mazamorragay/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&labelColor=D14836)](mailto:intipanessochavez@gmail.com)
+<br/>
+
+<!-- Botón CTA Primario para el sitio web -->
+[![Website](https://img.shields.io/badge/🌐_Visita_mi_Página_Web-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ipanessoc.github.io/
